@@ -1,3 +1,5 @@
+pdf for https://doi.org/10.6084/m9.figshare.31440832
+
 # squared_swish
 Research on the New Activation Function
 
